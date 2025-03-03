@@ -16,12 +16,9 @@
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
-    <p>Hello, I'm Wesley.L, a software engineer who loves exploring new systems and security vulnerabilities.</p>
-    <p>👀 I'm deeply interested in machine learning, reinforcement learning algorithms, GPU programming, as well as developing frontend plugins and toolchain projects.</p>
-    <p>🌱 I've been working extensively with Python, Node.js, and Spring Boot, Ruby on Rails and I enjoy creating innovative tools and fun projects.</p>
-    <p>💞️ Feel free to submit PRs to improve my projects and make them even better.</p>
-    <p>📫 You can reach me via X or follow me on GitHub to stay updated with my latest work.</p>
-    <p>🌑 I often code late at night, so please don't disturb me during those hours, but I’d love to hear your suggestions in the morning.</p>
+    <p>Hello, I'm Wesley.L, a strong background in backend engineering specializing in AI with significant experience in building high-performance systems and robust APIs tailored for financial and healthcare applications...</p>
+    <p>👀 Enthusiasm for leaveraging technology to drive impactful solutions is evident, alongside a commitment to optimizing processes and enhancing data accessibility.</p>
+    <p>🌱 Continuous improvement and innovation in complex environments will be passionately pursued, aligning with a mission to create transformative applications that make a difference.</p>
   </div>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 </div>
