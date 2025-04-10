@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleycodemast&label=Profile%20views&color=0e75b6&style=flat" alt="wesleycodemast" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on [Financial Analytics platform](https://staging.topfunds.com/)
+<br>🔭 I’m currently working on [Financial Analytics platform](https://staging.topfunds.com/)
 <br>🌱 I’m currently learning Go, Rust<br><br>💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br>
 
 # 💻 Tech Stack:
