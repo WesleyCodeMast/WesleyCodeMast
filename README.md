@@ -62,151 +62,13 @@
 
 <p align="center" dir="auto"> <g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> If you also want to search using the api feel free, it is functional and fully working. <g-emoji class="g-emoji" alias="warning">⚠️</g-emoji></p>
 
-<section class="js-render-needs-enrichment render-needs-enrichment position-relative" data-identity="45a6dcde-dea3-4e6e-b7f0-5c345afde80e" data-host="https://viewscreen.githubusercontent.com" data-src="https://viewscreen.githubusercontent.com/markdown/geojson?docs_host=https%3A%2F%2Fdocs.github.com" data-type="geojson" aria-label="geojson rendered output container">
-  <div class="js-render-enrichment-target" data-json="{&quot;data&quot;:&quot;{\n  \&quot;type\&quot;: \&quot;FeatureCollection\&quot;,\n  \&quot;features\&quot;: [\n    {\n      \&quot;type\&quot;: \&quot;Feature\&quot;,\n      \&quot;id\&quot;: 1,\n      \&quot;properties\&quot;: {\n        \&quot;ID\&quot;: 0\n      },\n      \&quot;geometry\&quot;: {\n        \&quot;type\&quot;: \&quot;Polygon\&quot;,\n        \&quot;coordinates\&quot;: [\n          [\n            [\n              -49.7467491\n              \n            ],\n            [\n             \n              -21.6732591\n            ]\n          ]\n        ]\n      }\n    }\n  ]\n}\n&quot;}" data-plain="{
-  &quot;type&quot;: &quot;FeatureCollection&quot;,
-  &quot;features&quot;: [
-    {
-      &quot;type&quot;: &quot;Feature&quot;,
-      &quot;id&quot;: 1,
-      &quot;properties&quot;: {
-        &quot;ID&quot;: 0
-      },
-      &quot;geometry&quot;: {
-        &quot;type&quot;: &quot;Polygon&quot;,
-        &quot;coordinates&quot;: [
-          [
-            [
-              -49.7467491
-              
-            ],
-            [
-             
-              -21.6732591
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-" dir="auto"><!----><!----><div class="position-absolute top-0 pr-2 right-0 d-flex flex-justify-end flex-items-center">
-    
-    <details class="details-reset details-overlay details-overlay-dark" style="display: contents">
-      <summary role="button" aria-label="Open dialog" class="btn my-2 mr-2 p-0 d-inline-flex" aria-haspopup="dialog">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" class="octicon m-2">
-          <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z"></path>
-        </svg>
-      </summary>
-      <details-dialog class="Box Box--overlay render-full-screen d-flex flex-column anim-fade-in fast" aria-label="geojson rendered container" role="dialog" aria-modal="true">
-        <div>
-          <button aria-label="Close dialog" data-close-dialog="" type="button" data-view-component="true" class="Link--muted btn-link position-absolute render-full-screen-close">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="display:inline-block;vertical-align:text-bottom" class="octicon octicon-x">
-              <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
-            </svg>
-          </button>
-          <div class="Box-body border-0" role="presentation"></div>
-        </div>
-      </details-dialog>
-    </details>
-  <!----><clipboard-copy class="btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay" role="button" data-copy-feedback="Copied!" data-tooltip-direction="s" aria-label="Copy geojson code" value="{
-  &quot;type&quot;: &quot;FeatureCollection&quot;,
-  &quot;features&quot;: [
-    {
-      &quot;type&quot;: &quot;Feature&quot;,
-      &quot;id&quot;: 1,
-      &quot;properties&quot;: {
-        &quot;ID&quot;: 0
-      },
-      &quot;geometry&quot;: {
-        &quot;type&quot;: &quot;Polygon&quot;,
-        &quot;coordinates&quot;: [
-          [
-            [
-              -49.7467491
-              
-            ],
-            [
-             
-              -21.6732591
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-" tabindex="0">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-      <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path>
-      <path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-    </svg>
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-      <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-    </svg>
-  </clipboard-copy>
-  </div><!---->
-    <div class="render-container color-bg-transparent js-render-target p-0 is-render-automatic is-render-requested is-render-ready" data-identity="45a6dcde-dea3-4e6e-b7f0-5c345afde80e" data-host="https://viewscreen.githubusercontent.com" data-type="geojson" style="height: 500px;">
-      <iframe title="File display" role="presentation" class="render-viewer" sandbox="allow-scripts allow-same-origin allow-top-navigation allow-popups" src="https://viewscreen.githubusercontent.com/markdown/geojson?docs_host=https%3A%2F%2Fdocs.github.com&amp;color_mode=light#45a6dcde-dea3-4e6e-b7f0-5c345afde80e" name="45a6dcde-dea3-4e6e-b7f0-5c345afde80e" data-content="{&quot;data&quot;:&quot;{\n  \&quot;type\&quot;: \&quot;FeatureCollection\&quot;,\n  \&quot;features\&quot;: [\n    {\n      \&quot;type\&quot;: \&quot;Feature\&quot;,\n      \&quot;id\&quot;: 1,\n      \&quot;properties\&quot;: {\n        \&quot;ID\&quot;: 0\n      },\n      \&quot;geometry\&quot;: {\n        \&quot;type\&quot;: \&quot;Polygon\&quot;,\n        \&quot;coordinates\&quot;: [\n          [\n            [\n              -49.7467491\n              \n            ],\n            [\n             \n              -21.6732591\n            ]\n          ]\n        ]\n      }\n    }\n  ]\n}\n&quot;}">
-      </iframe>
-    </div>
-  <!----><!----></div>
-  <span class="js-render-enrichment-loader d-flex flex-justify-center flex-items-center width-full" style="min-height:100px" role="presentation" hidden="">
-    <span data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="octospinner mx-auto anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-  </span>
-<div class="js-render-enrichment-fallback"><div class="render-plaintext-hidden" dir="auto">
-      <pre lang="geojson" aria-label="Raw geojson code">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7467491
-              
-            ],
-            [
-             
-              -21.6732591
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-</pre>
-    </div></div></section>
-
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> Machine Learning</h2><a id="user-content-️-machine-learning" class="anchor" aria-label="Permalink: ⚠️ Machine Learning" href="#️-machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <br>
 
 <p align="center" dir="auto"> I'm currently interested in machine learning, but I'm not a professional in the field. </p>
 
-<section class="js-render-needs-enrichment render-needs-enrichment position-relative" data-identity="831a6984-f3ec-4476-84a7-c8bc6b4076b2" data-host="https://viewscreen.githubusercontent.com" data-src="https://viewscreen.githubusercontent.com/markdown/mermaid?docs_host=https%3A%2F%2Fdocs.github.com" data-type="mermaid" aria-label="mermaid rendered output container">
-  <div class="js-render-enrichment-target" data-json="{&quot;data&quot;:&quot;graph TD;\n    machine-learning--&amp;gt;Data;\n    machine-learning--&amp;gt;Algorithms;\n    machine-learning--&amp;gt;Statistical-Models;\n    machine-learning--&amp;gt;Feature-Engineering;\n    machine-learning--&amp;gt;Evaluation-Metrics;\n    machine-learning--&amp;gt;Deployment;\n&quot;}" data-plain="graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-" dir="auto"><!----><!----><div class="position-absolute top-0 pr-2 right-0 d-flex flex-justify-end flex-items-center">
-    
-    <details class="details-reset details-overlay details-overlay-dark" style="display: contents">
+   <details class="details-reset details-overlay details-overlay-dark" style="display: contents">
       <summary role="button" aria-label="Open dialog" class="btn my-2 mr-2 p-0 d-inline-flex" aria-haspopup="dialog">
         <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" class="octicon m-2">
           <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z"></path>
@@ -223,14 +85,6 @@
         </div>
       </details-dialog>
     </details>
-  <!----><clipboard-copy class="btn my-2 js-clipboard-copy p-0 d-inline-flex tooltipped-no-delay" role="button" data-copy-feedback="Copied!" data-tooltip-direction="s" aria-label="Copy mermaid code" value="graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-" tabindex="0">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" class="octicon octicon-copy js-clipboard-copy-icon m-2">
       <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path>
       <path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
@@ -238,13 +92,7 @@
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
       <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
     </svg>
-  </clipboard-copy>
-  </div><!---->
-    <div class="render-container color-bg-transparent js-render-target p-0 is-render-automatic is-render-requested is-render-ready" data-identity="831a6984-f3ec-4476-84a7-c8bc6b4076b2" data-host="https://viewscreen.githubusercontent.com" data-type="mermaid" style="height: 180px;">
-      <iframe title="File display" role="presentation" class="render-viewer" sandbox="allow-scripts allow-same-origin allow-top-navigation allow-popups" src="https://viewscreen.githubusercontent.com/markdown/mermaid?docs_host=https%3A%2F%2Fdocs.github.com&amp;color_mode=light#831a6984-f3ec-4476-84a7-c8bc6b4076b2" name="831a6984-f3ec-4476-84a7-c8bc6b4076b2" data-content="{&quot;data&quot;:&quot;graph TD;\n    machine-learning--&amp;gt;Data;\n    machine-learning--&amp;gt;Algorithms;\n    machine-learning--&amp;gt;Statistical-Models;\n    machine-learning--&amp;gt;Feature-Engineering;\n    machine-learning--&amp;gt;Evaluation-Metrics;\n    machine-learning--&amp;gt;Deployment;\n&quot;}">
-      </iframe>
-    </div>
-  <!----><!----></div>
+
   <span class="js-render-enrichment-loader d-flex flex-justify-center flex-items-center width-full" style="min-height:100px" role="presentation" hidden="">
     <span data-view-component="true">
   <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="octospinner mx-auto anim-rotate">
