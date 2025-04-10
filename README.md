@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wesley Leck.</h1>
 <h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
+<p>While hiking through challenging trails, I contemplated quitting more times than I can count. Yet, faced with high winds and fatigue, I persevered, reminding myself that determination is key. This mindset fuels my work as a Backend Developer, where I tackle complex challenges with resilience.
 
+Specializing in Java (Spring Boot) and Python (Flask, Django, FastAPI), I create robust backend solutions for the financial analytics and healthcare industries. Additionally, I have a strong focus on AI, NLP, AI call agent systems, and VoIP, where I leverage cutting-edge technologies to enhance user experiences and streamline operations.
+
+I am passionate about harnessing technology to drive innovation and improve outcomes across industries. If you're interested in discussing the latest trends in AI and backend development or sharing insights over coffee, I’d love to connect!
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleycodemast&label=Profile%20views&color=0e75b6&style=flat" alt="wesleycodemast" /> </p>
 
 # 💫 About Me:
