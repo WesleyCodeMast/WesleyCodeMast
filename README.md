@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Leck.</h1>
-<h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, GIS, Financial Analytics, Healthcare industries, Cloud Solutions, Scalable Applications</h3>
+<h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Financial Analytics, Healthcare industries, GIS, Cloud Solutions, Scalable Applications</h3>
 
 - While hiking through challenging trails, I contemplated quitting more times than I can count.
 - Yet, faced with high winds and fatigue, I persevered, reminding myself that determination is key.
