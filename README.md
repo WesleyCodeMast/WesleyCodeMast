@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wesley Leck.</h1>
 <h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Financial Analytics, Healthcare industries, GIS, Cloud Solutions, Scalable Applications</h3>
 
+<br>🔭 I’m currently working on [Financial Analytics platform](https://staging.topfunds.com/)
+<br>🌱 I’m currently learning Go, Rust
+<br><br> 💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js<br>
+
 - While hiking through challenging trails, I contemplated quitting more times than I can count.
 - Yet, faced with high winds and fatigue, I persevered, reminding myself that determination is key.
 - This mindset fuels my work as a Backend Developer, where I tackle complex challenges with resilience.
